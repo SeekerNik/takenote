@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/takenote/static/js/main.cda9d011.chunk.js",
+    "main.js.map": "/takenote/static/js/main.cda9d011.chunk.js.map",
+    "runtime-main.js": "/takenote/static/js/runtime-main.fe2f9c93.js",
+    "runtime-main.js.map": "/takenote/static/js/runtime-main.fe2f9c93.js.map",
+    "static/js/2.38077634.chunk.js": "/takenote/static/js/2.38077634.chunk.js",
+    "static/js/2.38077634.chunk.js.map": "/takenote/static/js/2.38077634.chunk.js.map",
+    "index.html": "/takenote/index.html",
+    "precache-manifest.5379f2b15e14335f691d037c11cbec40.js": "/takenote/precache-manifest.5379f2b15e14335f691d037c11cbec40.js",
+    "service-worker.js": "/takenote/service-worker.js",
+    "static/js/2.38077634.chunk.js.LICENSE.txt": "/takenote/static/js/2.38077634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe2f9c93.js",
+    "static/js/2.38077634.chunk.js",
+    "static/js/main.cda9d011.chunk.js"
+  ]
+}
